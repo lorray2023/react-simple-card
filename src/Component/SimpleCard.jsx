@@ -7,7 +7,7 @@ import Description from'./Description';
 class Simplecard extends React.Component{
   
       image='https://media.istockphoto.com/id/182175040/photo/birthday-cake.jpg?b=1&s=170667a&w=0&k=20&c=AByvM0YYQKEtINBnq0WiL5z2-EnLkqe5ViibE8T4jrE='
-      title = "Birthday Card"
+      title = "Birthday Cards"
       desc = 'Happy Birthday to my Sunshine, You are six years today, May you grow like Jesus grew in wisdom, stature , favor'
 
 
